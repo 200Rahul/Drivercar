@@ -1,0 +1,21 @@
+,brand_name,car_name,year,selling_price,km_driven,fuel,seller_type,transmission,owner
+3647,Hyundai,Verna,2010,229999,70000,Petrol,Individual,Manual,First Owner
+463,Hyundai,Verna,2008,195000,90000,Diesel,Individual,Manual,Second Owner
+3450,Maruti,Wagon,2010,225000,100000,Petrol,Individual,Manual,Second Owner
+2250,Audi,A6,2013,1300000,58500,Diesel,Dealer,Automatic,First Owner
+2050,Maruti,Alto,2019,295000,10000,Petrol,Individual,Manual,First Owner
+189,Maruti,Eeco,2017,390000,24000,Petrol,Individual,Manual,First Owner
+299,Ford,Figo,2018,624000,14681,Diesel,Dealer,Manual,First Owner
+1161,Maruti,Swift,2015,484999,73000,Diesel,Dealer,Manual,Second Owner
+620,Toyota,Fortuner,2017,2600000,47162,Diesel,Trustmark Dealer,Automatic,First Owner
+4044,Maruti,Alto,2014,285000,64000,Petrol,Dealer,Manual,Second Owner
+3160,Toyota,Innova,2015,851000,53652,Diesel,Dealer,Manual,First Owner
+2436,Maruti,Alto,2009,130000,80000,Petrol,Individual,Manual,Second Owner
+2320,Maruti,Vitara,2018,950000,15000,Diesel,Individual,Automatic,First Owner
+3101,Chevrolet,Beat,2014,305000,66000,Diesel,Individual,Manual,First Owner
+2976,Maruti,Swift,2014,254999,30000,Diesel,Individual,Manual,First Owner
+1048,Skoda,Laura,2010,400000,130000,Diesel,Individual,Automatic,Second Owner
+1109,Maruti,Omni,2016,120000,120000,Petrol,Individual,Manual,First Owner
+576,Maruti,SX4,2012,225000,110000,Petrol,Individual,Manual,Second Owner
+434,Honda,Brio,2012,300000,85962,Petrol,Dealer,Manual,Second Owner
+224,Hyundai,Verna,2008,120000,90000,Petrol,Individual,Manual,Second Owner
